@@ -1,0 +1,219 @@
+
+
+
+.banner{
+	height: 350px;
+	background-color:#ff0000;
+}
+.a a:hover{
+	background-color:#545b62;
+	color:#ffffff;
+	cursor: pointer;
+}
+.b a:hover{
+	background-color:#545b62;
+	color: #ffffff;
+	cursor: pointer;
+}
+
+
+.oi{
+	padding: 30px 60px;
+	margin-left: 106px;
+}
+
+.tt h1{
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px; 
+}
+
+.texto p{
+	text-align: justify;
+}
+
+.mm{
+	height: 300px;
+}
+
+.ttn h1{
+	text-align: center;
+	margin-top: 60px;
+}
+
+.ttn h2{
+	text-align: center;
+}
+
+.mn{
+	margin-top: 272px;
+}
+
+.ma{
+	height:600px;
+	 margin-top: 30px;
+}
+
+.mb{
+	height: 600px;
+}
+
+.mb p{
+	text-align: justify;
+	margin-top: 20px;
+}
+
+.tta h2{
+	text-align: center;
+	margin-top:-75px;
+	margin-bottom: 30px;
+}
+
+.mc {
+	height: 600px;
+}
+
+.mc img{
+	height: 479px;
+}
+
+.me {
+	height: 600px;
+}
+
+.me img{
+	height: 514px;
+	width: 93%;
+}
+
+.mg {
+	height: 600px;
+}
+
+.mg img{height: 514px;
+		width: 93%;
+}
+
+#topo{
+    display: none; 
+    position: fixed; 
+    bottom: 20px; 
+    right: 30px; 
+    z-index: 99; 
+    border: none; 
+    outline: none; 
+    background-color: #000000; 
+    color: #FFFFFF;
+    cursor: pointer; 
+    padding: 15px 30px; 
+    font-weight: bold;
+    font-size: 18px; 
+}
+
+#topo:hover{
+	background-color:#ff0000;
+	color: #000000;
+}
+
+.ttd h2{
+	margin-top:15px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+/*Pagina do Overwatch*/
+
+
+
+
+.li a{
+	text-align: center;
+	color: #000000;
+	height: 50px;
+	padding: 15px 80px;
+
+}
+
+.li a:hover{
+	 background-color:#9b9fc4;
+	 color: #ffffff;
+	 text-decoration: none;
+}
+
+.lia{
+	background-color: #ffffff;
+	height: 100px;
+	margin-top: 25px;
+}
+
+.texta{
+	height: 500px;
+	
+}
+.texta h1{
+	margin-top: 18px;
+	margin-bottom: 3.0rem;
+}
+.texta p{
+	line-height: 33px;
+	text-align: justify;
+	font-size: 18px;
+}
+
+.navbar{
+	background-color: rgba(183,218,248,1);
+}
+
+.nav-tabs a{
+	background-color:#b7daf8;
+	padding:15px 80px;
+	margin-left: 12px;
+	text-decoration: none;
+	color: #000000;
+	font-weight:bold;
+	border: 1px solid #919bbf;
+
+	
+}
+
+.nav-tabs a:hover{
+	text-decoration: none;
+	color: #ffffff;
+	background-color: #919bbf;
+	border: 1px #000000 solid;
+}
+
+.nav-tabs{
+	border-bottom:0px solid #ff0000;
+	border-color:#000000; 
+	margin-top: 30px;
+}
+
+.tab-content{
+	margin-top: 20px;
+}
+
+.ttt p{
+	text-align: justify;
+	margin-top: 50px;
+	font-size: 18px;
+}
+
+.ttt h2{
+	text-align: center;
+	margin-top: 50px;
+}
+
+.imggg img{
+	margin-top: 61px;
+	height: 430px;
+	
+}
